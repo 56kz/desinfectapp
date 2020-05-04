@@ -19,8 +19,8 @@ document.getElementById("date").value = d.toDateString();
                 data: form.serializeObject()
             }).success(
                 Swal.fire(
-                    '¡Muy bien!',
-                    'Pronto nos pondremos en contacto contigo.',
+                    '¡Listo!',
+                    'Nos comunicaremos contigo lo antes posible.',
                     'success'
                 )
             );
