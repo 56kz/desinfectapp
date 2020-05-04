@@ -5,10 +5,8 @@ document.getElementById("date").value = d.toDateString();
 
 (function($) {
     $(document).ready(function() {
-
         var form = $('.contact-form'),
             url = 'https://script.google.com/macros/s/AKfycbzf1bbjBE7dHEqwdgyHswI5y7QCteVfrb2ryjMVCnrrObGHDWAa/exec'
-
 
         $('#submit-form').on('click', function(e) {
             e.preventDefault();
