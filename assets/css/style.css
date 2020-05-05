@@ -2937,7 +2937,7 @@ hr {
     font-size: 65px;
     font-weight: 700;
     margin-bottom: 14px;
-    margin-left: 80px;
+    margin: 40px;
     color: #2b4b80;
     font-family: "Poppins", sans-serif;
     line-height: 1.2;
@@ -2968,7 +2968,9 @@ hr {
 
 .slider-area .hero__caption p {
     margin-bottom: 54px;
-    padding-left: 80px
+    padding-left: 0px;
+    margin:40px;
+    padding: 20px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -7069,8 +7071,9 @@ del {
     width: 50px;
     top: 300px;
     left: 0;
-    margin: 20px;
+    margin: 10px;
     background-color: rgba(0, 0, 0, 0.0);
+    color:rgba(0, 0, 0, 0.2) !important;
     border: none;
     border-radius: 20px;
     padding: 15px;
@@ -7085,8 +7088,9 @@ del {
     width: 50px;
     top: 300px;
     right: 0;
-    margin: 20px;
+    margin: 10px;
     background-color: rgba(0, 0, 0, 0.0);
+    color:rgba(0, 0, 0, 0.2) !important;
     border: none;
     border-radius: 20px;
     padding: 15px;
