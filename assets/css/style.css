@@ -2967,9 +2967,10 @@ hr {
 }
 
 .slider-area .hero__caption p {
-    margin-bottom: 54px;
+    margin-bottom: 34px;
     padding-left: 0px;
-    margin:20px;
+    margin-left:20px;
+    margin-right:20px;
     padding: 20px;
 }
 
