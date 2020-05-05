@@ -2936,13 +2936,11 @@ hr {
 .slider-area .hero__caption h1 {
     font-size: 65px;
     font-weight: 700;
-    margin-bottom: 14px;
-    margin: 40px;
+    margin: 20px;
     color: #2b4b80;
     font-family: "Poppins", sans-serif;
     line-height: 1.2;
     text-transform: capitalize;
-    margin-bottom: 40px
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
